@@ -1,0 +1,24 @@
+{
+  "originHash" : "76291ff480aedb73539981e56f155f4d0c7ba9fe43555f3a41b64def953a3e17",
+  "pins" : [
+    {
+      "identity" : "kingfisher",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/onevcat/Kingfisher.git",
+      "state" : {
+        "revision" : "33696a71dd4d71f1b0f781ade11a48ba5549581a",
+        "version" : "8.0.3"
+      }
+    },
+    {
+      "identity" : "skeletonview",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Juanpe/SkeletonView",
+      "state" : {
+        "revision" : "2f5274827d310e32c09325dd3e0007120940988e",
+        "version" : "1.31.0"
+      }
+    }
+  ],
+  "version" : 3
+}
